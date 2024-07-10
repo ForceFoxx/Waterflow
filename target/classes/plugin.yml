@@ -1,0 +1,4 @@
+name: Waterflow
+version: '1.0'
+main: net.forcefox.waterflow.Waterflow
+author: ForceFox

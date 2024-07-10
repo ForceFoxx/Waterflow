@@ -1,0 +1,4 @@
+name: Waterflow
+version: '${project.version}'
+main: net.forcefox.waterflow.Waterflow
+author: ForceFox
